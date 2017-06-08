@@ -38,6 +38,8 @@ https://github.com/yangshun1029/aria2gui
 
 * YAAW for Chrome
 
+https://chrome.google.com/webstore/detail/yaaw-for-chrome/dennnbdlpgjgbcjfgaohdahloollfgoc
+
 ### 4. IDM
 https://www.internetdownloadmanager.com/
 
@@ -48,6 +50,5 @@ http://www.freedownloadmanager.org/
 
 * 本人用不惯
 
-https://chrome.google.com/webstore/detail/yaaw-for-chrome/dennnbdlpgjgbcjfgaohdahloollfgoc
 
 

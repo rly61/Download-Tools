@@ -28,8 +28,16 @@
 
 最新版下载：https://github.com/aria2/aria2/releases
 
-*   Web-GUI
+* Web-GUI
 
 项目地址：https://github.com/ziahamza/webui-aria2
+
+* Aria2GUI for MAC OS X
+
+https://github.com/yangshun1029/aria2gui
+
+* YAAW for Chrome
+
+https://chrome.google.com/webstore/detail/yaaw-for-chrome/dennnbdlpgjgbcjfgaohdahloollfgoc
 
 

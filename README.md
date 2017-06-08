@@ -38,6 +38,16 @@ https://github.com/yangshun1029/aria2gui
 
 * YAAW for Chrome
 
+### 4. IDM
+https://www.internetdownloadmanager.com/
+
+* 破解版请Google一下。
+
+### 5. FDM
+http://www.freedownloadmanager.org/
+
+* 本人用不惯
+
 https://chrome.google.com/webstore/detail/yaaw-for-chrome/dennnbdlpgjgbcjfgaohdahloollfgoc
 
 

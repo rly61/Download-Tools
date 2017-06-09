@@ -40,6 +40,11 @@ https://github.com/yangshun1029/aria2gui
 
 https://chrome.google.com/webstore/detail/yaaw-for-chrome/dennnbdlpgjgbcjfgaohdahloollfgoc
 
+* Persepolis
+项目地址：https://github.com/persepolisdm/persepolis
+
+最新版下载：https://github.com/persepolisdm/persepolis/releases
+
 ### 4. IDM
 https://www.internetdownloadmanager.com/
 
